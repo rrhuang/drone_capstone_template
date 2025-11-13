@@ -24,7 +24,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 #### Option B - Using pip
 
-pip install uv
+```pip install uv```
 
 
 ### 2. Setup workflow
